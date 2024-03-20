@@ -1,0 +1,9 @@
+spacy
+pandas
+numpy
+re
+scikit-learn
+hdbscan
+plotly
+matplotlib
+WordCloud
